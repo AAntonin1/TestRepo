@@ -1,3 +1,3 @@
 x = 99999999999999
-
-print(f"Le nombre vaut {x}")
+y = "A"
+print(f"Le nombre vaut {x} et la lettre vaut {y}")
